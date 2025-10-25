@@ -54,8 +54,8 @@ A simple prototype designed to monitor employee moods and suggest tasks that ali
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/amdox-task-optimizer.git
-cd amdox-task-optimizer
+git clone https://github.com/magnabenita/AI-Task-Optimizer.git
+cd AI-Task-Optimize
 ````
 
 2. **Create virtual environment & install dependencies**
@@ -106,5 +106,9 @@ This project is released under the MIT License.
 * [FER](https://github.com/justinshenk/fer) library for facial expression recognition.
 * [Streamlit](https://streamlit.io/) for creating the interactive dashboard.
 
-```
+## **Author**
+
+Magna Benita .P
+
+Email: magnabenita123@gmail.com
 
